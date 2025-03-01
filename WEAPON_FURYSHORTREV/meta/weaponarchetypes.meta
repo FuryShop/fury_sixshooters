@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+
+
+		<!-- Double-Action Revolver -->
+		
+		<Item>
+			<modelName>fury_shortrev</modelName>
+			<txdName>fury_shortrev</txdName>
+			<ptfxAssetName>weap_xm_revolver</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>	
+		<Item>
+			<modelName>W_PI_Wep1_Mag1</modelName>
+			<txdName>W_PI_Wep1_Mag1</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>	
+	
+		
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
