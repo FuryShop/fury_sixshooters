@@ -13,19 +13,19 @@ ensure WEAPON_FURYSHORTREV
 -- add
 
 
-['WEAPON_FURYSHORTREV'] = 	{ 
-	label = 'Short 6 shooter', 		  
-        weight = 3400, 
-        durability = 0.1, 
-        ammoname = 'ammo-38' 
- },
+	['WEAPON_FURYSHORTREV'] = 	{ 
+		label = 'Short 6 shooter', 		  
+        	weight = 3400, 
+        	durability = 0.1, 
+        	ammoname = 'ammo-38' 
+ 	},
  
-['WEAPON_FURYMINIREV'] = { 
-        label = 'Subnosed 6 shooter', 		
-        weight = 3400, 
-        durability = 0.1, 
-        ammoname = 'ammo-38' 
-},
+	['WEAPON_FURYMINIREV'] = { 
+        	label = 'Subnosed 6 shooter', 		
+       		 weight = 3400, 
+        	durability = 0.1, 
+        	ammoname = 'ammo-38' 
+	},
 
 
 Only tested on OX-INVENTORY
