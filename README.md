@@ -1,4 +1,6 @@
 Fury Six shooters
+Both models are build from scratch and fully animated.
+
 
 Name of the weapon: WEAPON_FURYMINIREV
 Name of the weapon: WEAPON_FURYSHORTREV
