@@ -33,6 +33,7 @@ ensure WEAPON_FURYSHORTREV
 Only tested on OX-INVENTORY
 - No support for other inventories
 - If you want to change the ammo type change the ammoname in one you have installed on youre server
+- Inventory images are added in the gun folder
 
 Contact by discord: https://discord.gg/DXe7vZwN2A
 
